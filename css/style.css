@@ -82,3 +82,36 @@ body{
 body{
     background-color: #f5c3c3;
 }
+.flex-gallery {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.flex-gallery img{
+    max-width: 25%;
+
+}
+.index {
+    display: class;
+    flex-wrap:wrap ;
+    justify-content: space-between;
+    
+}
+.index img {
+    max-width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.class-container{
+    max-width: 20%;
+    height: 20%;
+    width: 20%;
+}
+.class-img {
+    max-width: 10%;
+
+}
+
+        
